@@ -8,6 +8,7 @@ Reproduce bug https://github.com/JetBrains/compose-multiplatform/issues/3840
     pod install
     open iosApp.xcworkspace
     ```
+ - You need to register this app in Apple Dev portal, or use bundle ID from existing once
  - Product -> Archive
  - (Not use Xcode Cloud)
  - Product -> Archive (again)
